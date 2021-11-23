@@ -201,3 +201,4 @@
 0552. 🐛 fix: fix null pointer exception on login
 0716. ✨ feat: implement quiz timer feature
 0933. 📚 docs: clarify environment setup
+0742. 📚 docs: clarify environment setup

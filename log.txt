@@ -206,3 +206,4 @@
 0740. 🐛 fix: resolve issue with date parsing
 0572. ✨ feat: add user authentication
 0463. 🚀 perf: reduce image load time
+0194. 🎨 style: standardize quote style

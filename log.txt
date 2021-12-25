@@ -208,3 +208,4 @@
 0463. 🚀 perf: reduce image load time
 0194. 🎨 style: standardize quote style
 0994. 🚀 perf: reduce image load time
+0159. 🚀 perf: lazy-load components

@@ -212,3 +212,4 @@
 0662. ♻️ chore: clean up unused files
 0729. 🔧 refactor: refactor quiz grading logic
 0300. ✨ feat: add export to CSV option
+0372. ✨ feat: add user authentication

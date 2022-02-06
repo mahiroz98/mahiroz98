@@ -214,3 +214,4 @@
 0300. ✨ feat: add export to CSV option
 0372. ✨ feat: add user authentication
 0168. ✅ test: add integration test for /submit endpoint
+0215. 🎨 style: reformat files with black

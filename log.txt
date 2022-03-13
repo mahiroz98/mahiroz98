@@ -14,3 +14,4 @@
 0857. 🎨 style: rename variables for clarity
 0176. 🔧 refactor: remove redundant code blocks
 0927. ♻️ chore: bump dependencies
+0978. 🐛 fix: prevent crash on empty input

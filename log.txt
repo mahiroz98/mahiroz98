@@ -26,3 +26,4 @@
 0729. 🔧 refactor: refactor quiz grading logic
 0129. 🔧 refactor: organize models into subfolders
 0324. 📚 docs: document token refresh logic
+0374. 🎨 style: standardize quote style

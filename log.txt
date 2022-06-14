@@ -27,3 +27,4 @@
 0129. 🔧 refactor: organize models into subfolders
 0324. 📚 docs: document token refresh logic
 0374. 🎨 style: standardize quote style
+0505. ♻️ chore: add GitHub actions badge

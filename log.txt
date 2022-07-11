@@ -236,3 +236,4 @@
 0149. ✨ feat: add export to CSV option
 0712. 🎨 style: apply consistent indentation
 0641. 📚 docs: write FAQ section
+0295. 🎨 style: remove trailing whitespace

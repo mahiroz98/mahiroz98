@@ -238,3 +238,4 @@
 0641. 📚 docs: write FAQ section
 0295. 🎨 style: remove trailing whitespace
 0751. 🐛 fix: handle 500 error in quiz API
+0334. 🚀 perf: cache repeated calculations

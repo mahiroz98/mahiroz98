@@ -243,3 +243,4 @@
 0961. 📚 docs: add API usage examples
 0797. 📚 docs: add API usage examples
 0997. ✅ test: increase coverage on auth module
+0088. 📚 docs: add API usage examples

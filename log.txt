@@ -245,3 +245,4 @@
 0997. ✅ test: increase coverage on auth module
 0088. 📚 docs: add API usage examples
 0094. 📚 docs: document token refresh logic
+0139. 📚 docs: document token refresh logic

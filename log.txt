@@ -48,3 +48,4 @@
 0154. 🐛 fix: prevent crash on empty input
 0910. 🎨 style: remove trailing whitespace
 0279. ✨ feat: support email verification
+0768. 🎨 style: remove trailing whitespace

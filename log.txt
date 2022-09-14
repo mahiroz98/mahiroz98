@@ -49,3 +49,4 @@
 0910. 🎨 style: remove trailing whitespace
 0279. ✨ feat: support email verification
 0768. 🎨 style: remove trailing whitespace
+0235. 🐛 fix: fix null pointer exception on login

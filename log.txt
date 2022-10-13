@@ -53,3 +53,4 @@
 0053. ✅ test: increase coverage on auth module
 0179. 🔧 refactor: split large controller into smaller functions
 0552. 🐛 fix: fix null pointer exception on login
+0217. 🚀 perf: reduce image load time

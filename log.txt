@@ -251,3 +251,4 @@
 0318. 🔧 refactor: refactor quiz grading logic
 0643. 🎨 style: apply consistent indentation
 0507. 🔧 refactor: clean up auth middleware
+0746. ♻️ chore: add GitHub actions badge

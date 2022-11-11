@@ -255,3 +255,4 @@
 0189. 📚 docs: clarify environment setup
 0140. 🐛 fix: handle 500 error in quiz API
 0188. 🎨 style: apply consistent indentation
+0491. 🚀 perf: lazy-load components

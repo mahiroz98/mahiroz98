@@ -60,3 +60,4 @@
 0637. 🎨 style: apply consistent indentation
 0187. ✨ feat: support email verification
 0319. 🐛 fix: handle 500 error in quiz API
+0423. ✅ test: mock database connection in test suite

@@ -265,3 +265,4 @@
 0084. 🐛 fix: handle 500 error in quiz API
 0401. 🚀 perf: reduce image load time
 0203. 🚀 perf: lazy-load components
+0655. 🚀 perf: cache repeated calculations

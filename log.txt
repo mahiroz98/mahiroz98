@@ -68,3 +68,4 @@
 0862. ♻️ chore: bump dependencies
 0712. 🎨 style: apply consistent indentation
 0089. 🔧 refactor: remove redundant code blocks
+0024. 📚 docs: write FAQ section

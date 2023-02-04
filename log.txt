@@ -71,3 +71,4 @@
 0024. 📚 docs: write FAQ section
 0127. 🐛 fix: fix null pointer exception on login
 0759. 🔧 refactor: organize models into subfolders
+0701. 🔧 refactor: clean up auth middleware

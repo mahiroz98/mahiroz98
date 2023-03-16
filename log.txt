@@ -79,3 +79,4 @@
 0466. 🚀 perf: optimize database query for quiz results
 0814. 🔧 refactor: remove redundant code blocks
 0314. ✨ feat: implement quiz timer feature
+0706. ✨ feat: support email verification

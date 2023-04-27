@@ -82,3 +82,4 @@
 0706. ✨ feat: support email verification
 0667. ✨ feat: add export to CSV option
 0385. ♻️ chore: clean up unused files
+0172. 📚 docs: add API usage examples

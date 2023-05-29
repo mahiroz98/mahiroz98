@@ -287,3 +287,4 @@
 0087. ✨ feat: add export to CSV option
 0595. ✨ feat: enable dark mode toggle
 0437. 📚 docs: clarify environment setup
+0282. 🔧 refactor: remove redundant code blocks

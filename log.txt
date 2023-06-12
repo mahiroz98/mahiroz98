@@ -290,3 +290,4 @@
 0282. 🔧 refactor: remove redundant code blocks
 0770. ♻️ chore: rename env.example
 0263. 📚 docs: add API usage examples
+0805. ♻️ chore: add GitHub actions badge

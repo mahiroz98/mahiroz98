@@ -293,3 +293,4 @@
 0805. ♻️ chore: add GitHub actions badge
 0948. 🐛 fix: fix broken CSS in mobile view
 0687. 🎨 style: remove trailing whitespace
+0414. 🔧 refactor: remove redundant code blocks

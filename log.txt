@@ -91,3 +91,4 @@
 0812. 🔧 refactor: refactor quiz grading logic
 0178. ✨ feat: support email verification
 0353. ♻️ chore: rename env.example
+0713. 🐛 fix: handle 500 error in quiz API

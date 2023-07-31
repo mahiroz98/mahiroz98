@@ -94,3 +94,4 @@
 0713. 🐛 fix: handle 500 error in quiz API
 0491. 🚀 perf: lazy-load components
 0400. 🐛 fix: fix null pointer exception on login
+0535. 📚 docs: write FAQ section

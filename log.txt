@@ -298,3 +298,4 @@
 0329. 📚 docs: update README with setup steps
 0853. 🔧 refactor: refactor quiz grading logic
 0211. 🔧 refactor: remove redundant code blocks
+0624. ✅ test: add unit test for quiz service

@@ -97,3 +97,4 @@
 0535. 📚 docs: write FAQ section
 0295. 🎨 style: remove trailing whitespace
 0104. 🎨 style: apply consistent indentation
+0837. 🚀 perf: cache repeated calculations

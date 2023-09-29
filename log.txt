@@ -100,3 +100,4 @@
 0837. 🚀 perf: cache repeated calculations
 0210. 🎨 style: apply consistent indentation
 0441. 📚 docs: add API usage examples
+0041. 🐛 fix: fix broken CSS in mobile view

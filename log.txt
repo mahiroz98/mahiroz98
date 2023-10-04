@@ -308,3 +308,4 @@
 0956. 📚 docs: clarify environment setup
 0885. ♻️ chore: update .gitignore
 0739. 🎨 style: remove trailing whitespace
+0817. 🔧 refactor: remove redundant code blocks

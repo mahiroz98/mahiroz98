@@ -310,3 +310,4 @@
 0739. 🎨 style: remove trailing whitespace
 0817. 🔧 refactor: remove redundant code blocks
 0125. ✅ test: add integration test for /submit endpoint
+0107. 🐛 fix: prevent crash on empty input

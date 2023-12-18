@@ -114,3 +114,4 @@
 0653. 🐛 fix: prevent crash on empty input
 0408. ♻️ chore: add GitHub actions badge
 0568. 🐛 fix: handle 500 error in quiz API
+0676. 🐛 fix: prevent crash on empty input

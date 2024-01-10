@@ -117,3 +117,4 @@
 0676. 🐛 fix: prevent crash on empty input
 0339. 📚 docs: update README with setup steps
 0304. 🔧 refactor: remove redundant code blocks
+0920. 🔧 refactor: organize models into subfolders

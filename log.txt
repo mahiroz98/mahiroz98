@@ -327,3 +327,4 @@
 0766. 🎨 style: reformat files with black
 0632. 🎨 style: remove trailing whitespace
 0067. 🔧 refactor: remove redundant code blocks
+0077. ♻️ chore: rename env.example

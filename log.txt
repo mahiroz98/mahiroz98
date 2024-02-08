@@ -121,3 +121,4 @@
 0144. ✅ test: increase coverage on auth module
 0558. ✨ feat: enable dark mode toggle
 0727. ♻️ chore: add GitHub actions badge
+0816. 🔧 refactor: organize models into subfolders

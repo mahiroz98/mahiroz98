@@ -329,3 +329,4 @@
 0067. 🔧 refactor: remove redundant code blocks
 0077. ♻️ chore: rename env.example
 0420. 🚀 perf: reduce image load time
+0601. ✨ feat: implement quiz timer feature

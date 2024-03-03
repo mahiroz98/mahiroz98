@@ -125,3 +125,4 @@
 0443. 🎨 style: standardize quote style
 0240. 🔧 refactor: remove redundant code blocks
 0056. ♻️ chore: rename env.example
+0567. 📚 docs: add API usage examples

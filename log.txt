@@ -131,3 +131,4 @@
 0382. 📚 docs: improve code comments in utils
 0946. ✅ test: add unit test for quiz service
 0430. 🐛 fix: fix null pointer exception on login
+0117. ✅ test: increase coverage on auth module

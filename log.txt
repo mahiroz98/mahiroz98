@@ -339,3 +339,4 @@
 0553. 🐛 fix: correct typo in registration form
 0916. ♻️ chore: bump dependencies
 0484. 🐛 fix: handle 500 error in quiz API
+0579. 📚 docs: clarify environment setup

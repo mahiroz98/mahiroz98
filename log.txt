@@ -340,3 +340,4 @@
 0916. ♻️ chore: bump dependencies
 0484. 🐛 fix: handle 500 error in quiz API
 0579. 📚 docs: clarify environment setup
+0063. 🐛 fix: handle 500 error in quiz API

@@ -345,3 +345,4 @@
 0066. 🔧 refactor: clean up auth middleware
 0731. 🎨 style: standardize quote style
 0101. 📚 docs: clarify environment setup
+0353. ♻️ chore: rename env.example

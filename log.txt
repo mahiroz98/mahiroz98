@@ -347,3 +347,4 @@
 0101. 📚 docs: clarify environment setup
 0353. ♻️ chore: rename env.example
 0257. 📚 docs: clarify environment setup
+0460. 📚 docs: write FAQ section

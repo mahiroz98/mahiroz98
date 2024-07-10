@@ -146,3 +146,4 @@
 0533. ♻️ chore: add GitHub actions badge
 0435. ✅ test: add unit test for quiz service
 0603. 🐛 fix: fix broken CSS in mobile view
+0375. 🐛 fix: handle 500 error in quiz API

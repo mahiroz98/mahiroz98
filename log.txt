@@ -352,3 +352,4 @@
 0416. 🎨 style: rename variables for clarity
 0388. 🎨 style: reformat files with black
 0278. 🔧 refactor: clean up auth middleware
+0726. ✨ feat: enable dark mode toggle

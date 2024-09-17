@@ -160,3 +160,4 @@
 0799. ♻️ chore: clean up unused files
 0825. 🔧 refactor: split large controller into smaller functions
 0522. 🐛 fix: handle 500 error in quiz API
+0131. 📚 docs: write FAQ section

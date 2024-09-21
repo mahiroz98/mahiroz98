@@ -162,3 +162,4 @@
 0522. 🐛 fix: handle 500 error in quiz API
 0131. 📚 docs: write FAQ section
 0317. ✅ test: test user registration edge cases
+0821. ✅ test: add integration test for /submit endpoint

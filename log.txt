@@ -171,3 +171,4 @@
 0332. 🎨 style: standardize quote style
 0022. 📚 docs: document token refresh logic
 0555. ✨ feat: create admin dashboard
+0503. ♻️ chore: rename env.example

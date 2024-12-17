@@ -364,3 +364,4 @@
 0802. 🔧 refactor: remove redundant code blocks
 0104. 🎨 style: apply consistent indentation
 0122. ✨ feat: support email verification
+0347. ♻️ chore: update .gitignore

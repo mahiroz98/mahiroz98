@@ -377,3 +377,4 @@
 0043. ✅ test: add integration test for /submit endpoint
 0974. ✨ feat: add export to CSV option
 0862. ♻️ chore: bump dependencies
+0531. 🐛 fix: prevent crash on empty input

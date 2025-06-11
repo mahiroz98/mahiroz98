@@ -385,3 +385,4 @@
 0533. ♻️ chore: add GitHub actions badge
 0810. 🔧 refactor: refactor quiz grading logic
 0285. 🐛 fix: resolve issue with date parsing
+0030. 🐛 fix: fix null pointer exception on login

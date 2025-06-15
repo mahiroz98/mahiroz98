@@ -387,3 +387,4 @@
 0285. 🐛 fix: resolve issue with date parsing
 0030. 🐛 fix: fix null pointer exception on login
 0209. ✨ feat: implement quiz timer feature
+0820. 📚 docs: add API usage examples

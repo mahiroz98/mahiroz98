@@ -389,3 +389,4 @@
 0209. ✨ feat: implement quiz timer feature
 0820. 📚 docs: add API usage examples
 0788. 📚 docs: add API usage examples
+0330. ✅ test: test user registration edge cases
